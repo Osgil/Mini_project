@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 desktop.ini
 
-*csv
+*csv*
 *idea
+qH*
